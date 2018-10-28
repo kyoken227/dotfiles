@@ -1,7 +1,5 @@
 
 
-#PS1='\[[\e[36m\]\u:\W\e[0m\]]\e[33m\]\$ \e[0m\]'
-#PS1="[\[\e[36m\]\u\[\e[0m\]:\[\e[33m\]\W\[\e[0m\]]\$ "
 PS1="[\[\e[36m\]\u\[\e[0m\]@\[\e[32m\]\h \[\e[33m\]\W\[\e[0m\]]\$ "
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
